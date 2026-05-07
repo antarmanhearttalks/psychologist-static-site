@@ -1,7 +1,7 @@
 const clinic = {
   psychologistName: "Dr. Priyanka Atreja",
   clinicName: "Antarman-heart talks",
-  phone: "+91 8700434297",
+  phone: "+91-8700434297",
   whatsappNumber: "918700434297",
   email: "antarmanhearttalks@gmail.com",
   city: "Noida, Delhi NCR",
