@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Antarman Heart Talks mark</title>
+  <desc id="desc">Two profiles, hands, leaves, and a heart.</desc>
+  <rect width="420" height="420" rx="64" fill="#fff"/>
+  <g transform="translate(210 202)">
+    <path d="M-145 0c7-82 68-140 145-140S138-82 145 0" fill="none" stroke="#f26645" stroke-width="8" stroke-linecap="round"/>
+    <path d="M-152 4c9 56 64 94 152 129C88 98 143 60 152 4c-32 9-57 34-74 67-22 18-47 30-78 40-31-10-56-22-78-40-17-33-42-58-74-67z" fill="#087568"/>
+    <path d="M-73 1c-30-9-52-33-52-62 0-38 30-70 68-70 21 0 41 10 53 26-20 4-37 17-47 35-11 20-13 43-22 71z" fill="#073c58"/>
+    <path d="M73 1c30-9 52-33 52-62 0-38-30-70-68-70-21 0-41 10-53 26 20 4 37 17 47 35 11 20 13 43 22 71z" fill="#5e8b72"/>
+    <path d="M0 85c-36-31-56-51-56-76 0-19 14-33 33-33 10 0 19 6 23 14 4-8 13-14 23-14 19 0 33 14 33 33 0 25-20 45-56 76z" fill="#f26645"/>
+    <path d="M0-22v-91" stroke="#07445b" stroke-width="7" stroke-linecap="round"/>
+    <path d="M0-87c-21-23-29-43 0-67 29 24 21 44 0 67z" fill="#6d9278"/>
+    <path d="M-19-79c-29-1-47-13-56-42 30 1 48 13 56 42z" fill="#0a766a"/>
+    <path d="M19-79c29-1 47-13 56-42-30 1-48 13-56 42z" fill="#0a766a"/>
+    <path d="M-15-48c-26-1-40-12-48-36 25 1 42 12 48 36z" fill="#073c58"/>
+    <path d="M15-48c26-1 40-12 48-36-25 1-42 12-48 36z" fill="#073c58"/>
+  </g>
+</svg>
