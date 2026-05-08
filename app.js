@@ -24,8 +24,8 @@ const iconPaths = {
 const services = [
   ["Stress & Anxiety Counselling", "Support for overthinking, panic, work pressure, and emotional stress."],
   ["Relationship Counselling", "Guidance for communication, conflict, family, and couple concerns."],
-  ["Child & Teen Counselling", "Counselling for confidence, studies, behaviour, emotions, and adjustment."],
-  ["Depression Support", "A gentle process to understand low mood, motivation, and emotional pain."],
+  ["Child & Teen Counselling", "Improve your child's mental and emotional well-being with counselling."],
+  ["Home Visit", "A gentle process to understand low mood, motivation, and emotional pain."],
   ["Career & Life Guidance", "Clarity for personal goals, decisions, confidence, and life transitions."],
   ["Online Therapy", "Private online psychologist consultation through phone or video appointments."],
 ];
