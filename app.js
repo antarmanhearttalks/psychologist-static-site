@@ -4,13 +4,14 @@ const clinic = {
   phone: "+91-8700434297",
   whatsappNumber: "918700434297",
   email: "antarmanhearttalks@gmail.com",
-  city: "Noida, Delhi NCR",
+  city: "Plot no-117, First Floor, Gagan Vihar Extension, Delhi 110051",
 };
 
 const iconPaths = {
   phone: '<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.12.9.33 1.77.63 2.61a2 2 0 0 1-.45 2.11L8.09 9.64a16 16 0 0 0 6.27 6.27l1.2-1.2a2 2 0 0 1 2.11-.45c.84.3 1.71.51 2.61.63A2 2 0 0 1 22 16.92z" />',
   mail: '<rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3 7 9 6 9-6" />',
   location: '<path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0z" /><circle cx="12" cy="10" r="3" />',
+  globe: '<circle cx="12" cy="12" r="10" /><path d="M2 12h20" /><path d="M12 2a15.3 15.3 0 0 1 0 20" /><path d="M12 2a15.3 15.3 0 0 0 0 20" />',
   calendar: '<rect x="3" y="4" width="18" height="18" rx="2" /><path d="M16 2v4M8 2v4M3 10h18" />',
   heart: '<path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z" />',
   shield: '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" /><path d="m9 12 2 2 4-4" />',
@@ -22,10 +23,10 @@ const iconPaths = {
 };
 
 const services = [
-  ["Stress & Anxiety Counselling", "Support for overthinking, panic, work pressure, and emotional stress."],
+  ["Stress, Anxiety and Depression Counselling", "Support for overthinking, panic, work pressure, and emotional stress."],
   ["Relationship Counselling", "Guidance for communication, conflict, family, and couple concerns."],
   ["Child & Teen Counselling", "Improve your child's mental and emotional well-being with counselling."],
-  ["Home Visit", "A gentle process to understand low mood, motivation, and emotional pain."],
+  ["Home Visit", "Professional psychological support delivered in the comfort and privacy of your home."],
   ["Career & Life Guidance", "Clarity for personal goals, decisions, confidence, and life transitions."],
   ["Online Therapy", "Private online psychologist consultation through phone or video appointments."],
 ];

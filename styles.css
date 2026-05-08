@@ -444,6 +444,25 @@ a {
   max-width: 720px;
 }
 
+.about-photo {
+  align-self: center;
+  justify-self: end;
+  margin: 0;
+  max-width: 430px;
+  width: 100%;
+}
+
+.about-photo img {
+  aspect-ratio: 3 / 4;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 8px;
+  box-shadow: 0 22px 52px rgba(0, 0, 0, 0.28);
+  height: auto;
+  object-fit: cover;
+  object-position: center top;
+  width: 100%;
+}
+
 .session-list {
   align-self: center;
   display: grid;
@@ -536,6 +555,11 @@ a {
   align-items: center;
   display: flex;
   gap: 12px;
+}
+
+.contact-location {
+  display: grid;
+  gap: 4px;
 }
 
 .emergency-note {
@@ -656,6 +680,11 @@ textarea:focus {
   .local-seo-section,
   .contact-section {
     grid-template-columns: 1fr;
+  }
+
+  .about-photo {
+    justify-self: start;
+    max-width: 360px;
   }
 
   .trust-strip,
